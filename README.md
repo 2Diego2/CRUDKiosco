@@ -1,6 +1,6 @@
 # Sistema CRUD para Kiosco
 
-Un sistema completo de gestión para kioscos, diseñado como un CRUD (Crear, Leer, Actualizar, Eliminar) con funcionalidad adicional para registrar ventas y manejar roles de usuarios.
+Proyecto final para la materia "Programacion I", de mi carrera "Tecnico Superior en Desarrollo de Software" en el cual cree un sistema completo de gestión para kioscos, diseñado como un CRUD (Crear, Leer, Actualizar, Eliminar) con funcionalidad adicional para registrar ventas y manejar roles de usuarios.
 
 ---
 
@@ -103,7 +103,7 @@ Permite manejar productos del kiosco:
 
 ---
 ## 📧 Contacto
-- Si tienes preguntas o comentarios sobre este proyecto, no dudes en contactarme: diegoabelleyra74@gmail.com
+- Si tenes preguntas o comentarios sobre este proyecto, no dudes en contactarme: diegoabelleyra74@gmail.com
 
 
 
