@@ -76,7 +76,7 @@ Permite manejar productos del kiosco:
 - ![image](https://github.com/user-attachments/assets/cf048216-ccfb-4b26-ba81-d4e5b917f3f7)
 - 2. Leer Productos
 - ![image](https://github.com/user-attachments/assets/d207f518-6abb-4d62-b1dc-6e9d1008b7ec)
--3.Modificar un Producto
+- 3.Modificar un Producto
 - ![image](https://github.com/user-attachments/assets/2f5e37bf-728b-46a6-bf9c-15f0a75df2b2)
 - ![image](https://github.com/user-attachments/assets/cb3d8c41-830d-450f-b0b7-2935eb8d083e)
 - ![image](https://github.com/user-attachments/assets/494430ce-25f2-42cd-9aa3-210d10474266)
