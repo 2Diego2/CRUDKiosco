@@ -51,4 +51,12 @@ Permite manejar productos del kiosco:
 - Todas las operaciones CRUD interactúan con una base de datos MySQL.
 
 ---
+## 📂 Estructura del proyecto
+/SistemaCRUDKiosco
+----- Conexionbd.h           # Conexión a MySQL
+----- producto.h             # Gestión de productos
+----- usuario.h              # Gestión de usuarios y roles
+----- venta.h                # Registro de ventas
+----- ventadetalle.h         # Detalles de ventas
+----- main.cpp               # Programa principal
 
