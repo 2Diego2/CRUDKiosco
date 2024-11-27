@@ -63,8 +63,11 @@ Permite manejar productos del kiosco:
 ## 🖼️ Capturas de pantalla
 -Sistema De login
 ![image](https://github.com/user-attachments/assets/8e0f492d-d03c-4cf2-bb14-94497888693b)
+
 ![image](https://github.com/user-attachments/assets/f6cbba15-f5e2-413a-acfb-a5b867188490)
+
 ![image](https://github.com/user-attachments/assets/53b136da-deeb-40c9-ae98-66cfd2e4950d)
+
 -Menú principal (Propietario)
 ![image](https://github.com/user-attachments/assets/f2335044-b155-4013-943c-2be64506290c)
 -Menú principal (Empleado)
@@ -102,8 +105,7 @@ Permite manejar productos del kiosco:
 
 ---
 ## 📧 Contacto
-Si tienes preguntas o comentarios sobre este proyecto, no dudes en contactarme:
-Email: diegoabelleyra74@gmail.com
+Si tienes preguntas o comentarios sobre este proyecto, no dudes en contactarme: diegoabelleyra74@gmail.com
 
 
 
