@@ -62,14 +62,12 @@ Permite manejar productos del kiosco:
 ---
 ## 🖼️ Capturas de pantalla
 -Sistema De login
-![image](https://github.com/user-attachments/assets/8e0f492d-d03c-4cf2-bb14-94497888693b)
-
-![image](https://github.com/user-attachments/assets/f6cbba15-f5e2-413a-acfb-a5b867188490)
-
-![image](https://github.com/user-attachments/assets/53b136da-deeb-40c9-ae98-66cfd2e4950d)
+-![image](https://github.com/user-attachments/assets/8e0f492d-d03c-4cf2-bb14-94497888693b)
+-![image](https://github.com/user-attachments/assets/f6cbba15-f5e2-413a-acfb-a5b867188490)
+-![image](https://github.com/user-attachments/assets/53b136da-deeb-40c9-ae98-66cfd2e4950d)
 
 -Menú principal (Propietario)
-![image](https://github.com/user-attachments/assets/f2335044-b155-4013-943c-2be64506290c)
+-![image](https://github.com/user-attachments/assets/f2335044-b155-4013-943c-2be64506290c)
 -Menú principal (Empleado)
 ![image](https://github.com/user-attachments/assets/c66b28f6-e5e6-4f34-bb3c-1985bb1f84b7)
 -1.Crear un Producto
