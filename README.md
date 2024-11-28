@@ -28,7 +28,7 @@ Este proyecto es un sistema CRUD desarrollado en C++ con conexión a una base de
 
 ### 1. Roles de usuario
 El sistema soporta dos roles:
-- **Dueño**:
+- **Propietario**:
   - Crear, leer, actualizar y eliminar productos.
   - Registrar ventas.
 - **Empleado**:
